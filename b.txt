@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 essa linha tambem foi modificada
+=======
+Modificada tambem
+>>>>>>> teste
